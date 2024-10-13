@@ -1,5 +1,5 @@
 import Products from "./Products";
-import styles from './cart.module.css';
+import styles from './Cart.module.css';
 
 function Cart() {
   return (
